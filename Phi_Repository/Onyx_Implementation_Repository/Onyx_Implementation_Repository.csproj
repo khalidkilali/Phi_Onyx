@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Onyx_Entities_Repository\Onyx_Entities_Repository.csproj" />
+    <ProjectReference Include="..\Onyx_Repository\Onyx_Contrat_Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Phi_Onyx/v17/.suo
+/.vs/Phi_Onyx
+/Onyx_Test/bin/Debug/net7.0
+/Onyx_Test/obj
+/Phi_Repository/Onyx_Entities_Repository/bin/Debug/net7.0
+/Phi_Repository/Onyx_Entities_Repository/obj
+/Phi_Repository/Onyx_Implementation_Repository/bin/Debug/net7.0
+/Phi_Repository/Onyx_Implementation_Repository/obj
+/Phi_Repository/Onyx_Repository/bin/Debug/net7.0
+/Phi_Repository/Onyx_Repository/obj
+/Onyx_Test/.vs/Onyx_Test
+/.vs/ProjectEvaluation
