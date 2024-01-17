@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Onyx_Phi", "Onyx_Phi\Onyx_Phi.csproj", "{22FFC16C-C881-4B10-B9B5-B5443AAF9E87}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Onyx_Test", "Onyx_Test\Onyx_Test.csproj", "{54EA7C82-4647-4965-B127-665FB59E4F6E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Phi_Repository", "Phi_Repository", "{3C6FB6FF-256D-4F1B-B8F9-64033FCB58F5}"
@@ -15,16 +13,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Onyx_Implementation_Reposit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Onyx_Contrat_Repository", "Phi_Repository\Onyx_Repository\Onyx_Contrat_Repository.csproj", "{CF3B8CC3-1AEF-4871-B8A0-ACB530CDF3BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phi_Onyx", "Phi_Onyx\Phi_Onyx.csproj", "{FC5D9A84-3206-4A0B-B761-889290B8BF47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{22FFC16C-C881-4B10-B9B5-B5443AAF9E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{22FFC16C-C881-4B10-B9B5-B5443AAF9E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{22FFC16C-C881-4B10-B9B5-B5443AAF9E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{22FFC16C-C881-4B10-B9B5-B5443AAF9E87}.Release|Any CPU.Build.0 = Release|Any CPU
 		{54EA7C82-4647-4965-B127-665FB59E4F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{54EA7C82-4647-4965-B127-665FB59E4F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54EA7C82-4647-4965-B127-665FB59E4F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -41,6 +37,10 @@ Global
 		{CF3B8CC3-1AEF-4871-B8A0-ACB530CDF3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF3B8CC3-1AEF-4871-B8A0-ACB530CDF3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF3B8CC3-1AEF-4871-B8A0-ACB530CDF3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5D9A84-3206-4A0B-B761-889290B8BF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5D9A84-3206-4A0B-B761-889290B8BF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5D9A84-3206-4A0B-B761-889290B8BF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5D9A84-3206-4A0B-B761-889290B8BF47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
